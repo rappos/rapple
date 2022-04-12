@@ -15,8 +15,12 @@
 
 <style>
   div {
-    background-color: rgb(203, 203, 203);
-    padding: 0 10px 0 10px;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #475569;
+    padding: 13px;
+    margin: 10%;
+    border-radius: 10px;
   }
 </style>
